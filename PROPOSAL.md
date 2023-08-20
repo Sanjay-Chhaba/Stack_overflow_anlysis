@@ -56,17 +56,3 @@ $$
 rmse = \sqrt{(\frac{1}{n})\sum_{i=1}^{n}(y_{i} - x_{i})^{2}}
 $$
 
-
-
-#### Project plan
-
-**Week 8:** Creating Project base, Source control([GitHub](https://github.com/Sanjayviswa/Stackoverflow_survey_Analysis)), Project Management(MS Project).
-
-- Complete Data Wrangling & basic Analysis.
-
-**Week 10**: Complete baseline Model building with algorithms.
-
-**Week 11:** Run tests and evaluate model.
-
-**Week 12:** Prepare video presentation.
-
